@@ -1,0 +1,2 @@
+# euchre
+Discord euchre bot
